@@ -1,0 +1,107 @@
+{
+  "code": "DST",
+  "title": "SMASH DST",
+  "school": "대전과기대",
+  "fullName": "대전과학기술대학교",
+  "campusName": "대전과학기술대학교",
+  "tagline": "대전과기대를 부셔 (시험기간 스트레스 해소)",
+  "description": "대전과학기술대학교를 3D로 부수고 지구 중심까지 파 내려가는 스트레스 해소 게임",
+  "ogAlt": "폭탄이 터지며 무너지는 대전과학기술대학교 3D 화면과 SMASH DST 제목",
+  "url": "https://hong-iron.github.io/SMASH-DST/",
+  "antipode": "우루과이 앞바다(남대서양)",
+  "osm": {
+    "type": "way",
+    "id": 817306596
+  },
+  "styles": {},
+  "supportKakao": "https://qr.kakaopay.com/FKcOJKyOy1f405462",
+  "supportToss": "supertoss://send?amount=1000&bank=%ED%86%A0%EC%8A%A4%EB%B1%85%ED%81%AC&accountNo=100123297463&origin=qr",
+  "hub": "https://hong-iron.github.io/SMASH/",
+  "kakaoKey": "ff20552a5a51bc1fe0e0ecdecd217f35",
+  "goatcounter": "https://sassafras.goatcounter.com/count",
+  "supabaseUrl": "https://qohxhopinnwrzrgxrdvj.supabase.co",
+  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g",
+  "exclude": [
+    {
+      "at": [
+        36.2996411,
+        127.3732336
+      ],
+      "n": "관음사요사채",
+      "why": "학교 건물 아님 — 학교 남서쪽 끝에 붙어 있는 절 관음사의 요사채로, 종교 부지(복수동 548)에 있고 학교 건물 목록에도 없다."
+    },
+    {
+      "at": [
+        36.2998043,
+        127.3727923
+      ],
+      "n": "A동",
+      "why": "학교 건물 아님 — 학교 남서쪽 끝에 있는 기와지붕 절 관음사 A동으로, 종교 부지(복수동 235-1)에 있고 학교 건물이 아니다."
+    }
+  ],
+  "look": {
+    "중앙도서관": {
+      "style": "stone",
+      "wall": "#aeacad",
+      "glass": "#5f8f9a",
+      "frame": "#bcbbbc"
+    },
+    "E동(교사동)": {
+      "style": "brick",
+      "wall": "#9b5e42",
+      "glass": "#3f5458",
+      "frame": "#dedbd2"
+    },
+    "F동(성지관)": {
+      "style": "ribbon",
+      "wall": "#765860",
+      "glass": "#5e7590",
+      "frame": "#d6d9d9"
+    },
+    "혜천관": {
+      "style": "brick",
+      "wall": "#c99a8c",
+      "glass": "#3d3e44",
+      "frame": "#dcd2c8",
+      "roof": "#31241e",
+      "hip": true
+    },
+    "D동": {
+      "style": "brick",
+      "wall": "#c99c90",
+      "glass": "#3c4547",
+      "frame": "#e6eaeb"
+    },
+    "창대체육관": {
+      "style": "glass",
+      "wall": "#e3e2e0",
+      "glass": "#7d8a91",
+      "frame": "#8e8d89"
+    },
+    "대전과학기술대학교 홍은학사": {
+      "style": "dorm",
+      "wall": "#f2efe9",
+      "glass": "#4a5c50",
+      "frame": "#a9a79d"
+    },
+    "K동(진리관)": {
+      "style": "brick",
+      "wall": "#885844",
+      "glass": "#6f9190",
+      "frame": "#d8d8d8"
+    },
+    "B동(실험실습동)": {
+      "style": "brick",
+      "wall": "#673a2a",
+      "glass": "#6e827a",
+      "frame": "#e6e8ec"
+    },
+    "C동(강의동)": {
+      "style": "glass",
+      "wall": "#a8b4b4",
+      "glass": "#3f6a5a",
+      "frame": "#c8d4d4"
+    }
+  },
+  "lookSource": "학교 공식 캠퍼스맵·건물 안내 사진과 위키미디어 공용 사진의 색만 참고. 사진 픽셀은 쓰지 않음"
+}
